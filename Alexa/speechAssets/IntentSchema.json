@@ -1,0 +1,17 @@
+{
+  "intents": [
+    {
+      "intent": "ParticleIntent",
+      "slots": [
+        {
+          "name": "light",
+          "type": "LIST_OF_ANSWERS"
+        }
+      ]
+    },
+    {
+      "intent": "HelpIntent",
+      "slots": []
+    }
+  ]
+}
